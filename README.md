@@ -4,7 +4,7 @@ MANDEEP SINGH (RA2211003010737)
 
 LIST OF EXPERIMENTS
 
-1. Implementation of Structures
+1. Implementation of Structures.
 2. Implementation of Structures using Pointers
 3. Implementation of Matrix Multiplication – Dynamic Memory Allocation.
 4. Array implementation of List
