@@ -6,7 +6,7 @@ LIST OF EXPERIMENTS
 
 1. Implementation of Structures.
 2. Implementation of Structures using Pointers
-3. Implementation of Matrix Multiplication – Dynamic Memory Allocation.
+3. Implementation of Matrix Multiplication – Dynamic Memory Allocation
 4. Array implementation of List
 5. Implementation of Linked List
 6. Implementation of Doubly linked list
